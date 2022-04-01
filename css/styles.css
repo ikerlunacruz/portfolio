@@ -43,6 +43,7 @@ h6{
 
 body{
     margin: 0;
+    background-color: bisque;
 }
 
 /* Clear floats after the columns */
@@ -54,7 +55,6 @@ body{
 /* Diseño de columnas */
 .column-1{
     width: 100%;
-    float: left;
 }
 
 .column-2{
